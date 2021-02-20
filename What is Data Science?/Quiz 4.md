@@ -1,4 +1,4 @@
-# Quiz
+# Quiz - Regression
 
 1. Question 1The real added value of the author's research on residential real estate properties is quantifying people's preferences of different transport services.
 - [ ] True.
