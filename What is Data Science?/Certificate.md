@@ -1,3 +1,1 @@
-# PDF
-
-[What is Data Science.pdf](https://github.com/TomLewis-Clare/IBM-Data-Science-Professional-Certificate/files/6015259/What.is.Data.Science.pdf)
+![What is Data Science](https://user-images.githubusercontent.com/79361165/108600377-e6395780-738e-11eb-8f68-cb35cb4b605c.png)
