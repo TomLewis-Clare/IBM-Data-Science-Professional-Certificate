@@ -1,4 +1,4 @@
-# Quiz 
+# Quiz - What Makes Someone a Data Scientist?.md
 
 1. Hal Varian, the chief economist at Google, declared that "the sexy job in the next ten years will be ___________________".
 
