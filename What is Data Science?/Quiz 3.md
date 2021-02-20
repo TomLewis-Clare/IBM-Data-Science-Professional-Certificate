@@ -1,4 +1,4 @@
-# Quiz
+# Quiz - Data Mining
 
 1. According to the reading, the output of a data mining exercise largely depends on the skills of the data scientist carrying out the exercise.
 - [x] False.
