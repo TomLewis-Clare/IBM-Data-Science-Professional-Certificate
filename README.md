@@ -1,6 +1,6 @@
 # IBM: Data Science Professional Certification
 
-This repository contains all assignments for this course.
+This repository contains all assignments and other resources for this course.
 Currently I am pursuing this certification and will updating the resources as I proceed further.
 
 The courses enlisted in this specialization are as follows:
