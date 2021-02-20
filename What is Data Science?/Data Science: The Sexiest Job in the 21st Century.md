@@ -15,7 +15,7 @@
 - [ ] Social media
 - [ ] Outsourcing
 - [ ] Code sharing
-- [ ]None of the options is correct
+- [ ] None of the options is correct
 - [x] Crowdsourcing
 
 4. What is the average base salary of a data scientist reported by the New York Times? 
