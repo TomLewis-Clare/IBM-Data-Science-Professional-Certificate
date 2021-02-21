@@ -1,5 +1,5 @@
 # Is the current tightest lockdown restrictions in the UK justified by the new COVID variants increasing the risk of "Long COVID"?
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h1 align="center"> Which topic did you choose to apply the data science methodology to?</h1>
 
 **Hospitals**
