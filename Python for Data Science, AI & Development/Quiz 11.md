@@ -9,7 +9,7 @@ with open("Example1.txt","r") as File1:
      file_stuff=File1.readline ()        
      print(file_stuff)  
 
-2. Consider the file object: File1. How would you read the first line of text?
+2. Consider the file object: File1. How would you read the first line of text?  
 
 3. Consider the following line of code:   
 with open(example1,"r") as file1:  
