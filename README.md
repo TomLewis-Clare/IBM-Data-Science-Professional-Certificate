@@ -6,7 +6,7 @@
 
 <hr />
 
-This repository contains all assignments and other resources for this course (BUT DOES NOT INCLUDE THE LABS).
+This repository contains  assignments and other resources for this course. DOES NOT INCLUDE ALL LABS, only some - but does include a list of labs taken.
 Currently I am pursuing this certification and will updating the resources as I proceed further.
 
 The courses enlisted in this specialization are as follows:
