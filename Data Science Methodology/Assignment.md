@@ -11,11 +11,12 @@
 **Using data on COVID variants in the population and the number of COVID patients developing "Long COVID" over time, is there a significant relationship between COVID variants and "Long COVID" to suggest that COVID variants could trigger more patients to have "Long COVID"?**
 
 <h1 align="center"> Briefly explain how you would complete each of the following stages for the problem that you described in the Business Understanding stage, so that you are ultimately able to answer the question that you came up with.</h1>
-- [ ] Analytic Approach
-- [ ] Data Requirements
-- [ ] Data Collection
-- [ ] Data Understanding and Preparation
-- [ ] Modeling and Evaluation
+
+* Analytic Approach
+* Data Requirements
+* Data Collection
+* Data Understanding and Preparation
+* Modeling and Evaluation
 
 **As this problem involves identifying the relationship between COVID variants and "Long COVID", a Descriptive Approach will be used. Machine Learning can be used to identify this relationship as future COVID variants enter the population.**
 
