@@ -1,7 +1,10 @@
-![IBM](https://user-images.githubusercontent.com/79361165/108628439-e6029000-7452-11eb-936c-edf21557562c.JPG)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79361165/108628439-e6029000-7452-11eb-936c-edf21557562c.JPG">
+</p>
 
+<h1 align="center"> IBM: Data Science Professional Certification </h1>
 
-# IBM: Data Science Professional Certification
+<hr />
 
 This repository contains all assignments and other resources for this course.
 Currently I am pursuing this certification and will updating the resources as I proceed further.
